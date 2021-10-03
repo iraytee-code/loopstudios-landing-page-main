@@ -10,7 +10,7 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
   - [The challenge](#the-challenge)
   - [Screenshots](#screenshots)
   - [Links](#links)
-- [My process](#My-process)
+- [My process](#my-process)
   - [Built with](#built-with)
   - [What we learned](#what-we-learned)
   - [Continued development](#continued-development)
