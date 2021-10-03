@@ -88,7 +88,7 @@ Screenshot of the general overview of the site in mobile view.
 
 ## Authors
 
-- GitHub - [Veronika Palto](https://github.com/iraytee-code)
+- GitHub - [Adeniran Hope](https://github.com/iraytee-code)
 
 
 ## Acknowledgments
