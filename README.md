@@ -44,8 +44,8 @@ Screenshot of the general overview of the site in mobile view.
 
 ### Links
 
-- Solution URL: [Challenge Solution](https://www.frontendmentor.io/solutions/a-collaborative-project-featuring-a-desktopfirst-workflow-S-rmJH2Ps)
-- Live Site URL: [Loopstudios](https://hungry-kilby-fc41c0.netlify.app/)
+- Solution URL: [Challenge Solution](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw/hub/loopstudios-landing-page-ACvA48Gj4)
+- Live Site URL: [Loopstudios](https://iraytee-code.github.io/loopstudios-landing-page-main/)
 
 ## My process
 
